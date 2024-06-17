@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "sigma-future-426713-j7",
+  "private_key_id": "374d2ab7e286066ba37cb9af0a26d9cd65889ce6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDFiOSPsEeAdK7o\n0ZdFXzSJuv44biFWKwjT/q5ijAd7ZKKqC6/Cv8Ugtg9pao0gee+KRInqIosz8You\nPPSzm5ow/U6IppztlLRGLvmMwwjRDvbw5FiuIeVCLsjXWjkqf0rdis4CZtbTsipC\ng+LzIk81QRpztUFtZCBW46tjDykZ1byniY5MB1vhGTbEbx3br/6Pp/V31SLe4ge3\nuMmzRjKG4AsHMcBbSX/DHy389k5j/6QuF/Ze8To+CAlBHLJ/0c8TGkZUxSKEmpXF\nBNxQwzzfDvUMiIIU9Oso6tQzM4XPcjfe9XMM6PdvgftsGluXAF+xmhwDj9nEOBG3\n9xOtTmiHAgMBAAECggEADuQAjtBeuNE9n4av3OaODaqPSsO1NvYBhrGWhblBQHet\nR3JKv+c4PfywxrqQhEKM4HhwM7qCPIUtwcnjNxLjbw6j9+skvfLNcCj5s4xpmBDa\nY/24AvsXzthmAs3mAffHNfzRBh9TJxwxfALN0z7ih6+DsKCY8QfGOaaUnzVfsiG9\nBD94Ifpyz+RozKnp3tWkYqo3R04wHkFu4MjeDY9EDQ4uQkkOF3p1Z1uZ7hbamUvf\najh/yNhk/Oi1fIHbn3HExcuhsMQZgWoxi9g15DvIRdn4gBWQhm7UKmhw+6ltvf5N\n2CrVEubuM8ba0g2Mpjcjuh6ih3C1rlyGUGxAzq7iaQKBgQDngjO35e+Q60JDGMaA\ndski7ZlOu1I99O4vlS+rU9hTUk6avy7DmL40ORbfemnx5b9RFyKDrpO/feEj5cVc\nKVtkqDlvktQKGxp0WcYkdzZ7eX9x2rTWJ2h5mK/r5B48ZiHmaOKC1twAoOK53oE9\nyLBegpXxDwuaB9CCwWCyxI8m7QKBgQDabpk7xFIHvizdilHcR7gAs6ld2kzKiFmX\nYp0TvsIqf4CzxscVQnjwsZ8VTR4SzLbh9yEl2+aMNwWOZPYnX+hjOFWcwJIh/Tc5\nX9Kwx40b9awQPcskTVepV5ztc2vJBKVBxTel1LxLdX3WOYv8vZ7kdn1WW5aWHQ1p\nS0OGvWiKwwKBgQCGhxeMnnYGzV605Lm8vsoEnPMAWEPjMugSCGwp78/+Iw8AR2Zi\nTOkCKcaL2HOmGG6DLaFlydWbagehN4znEDVGmaa+miDTOoq139EPMaMcPy76ty9s\nXnwMZNidh/K2AFdkr8AobbhsORFnFtAdWfh7AwEkkiyYtj/JK5wIZcYVxQKBgFSc\nRsr57vSE3AgszizPsxzCezaZmulRC7MyRboiSEACB66brv4zM3m4s/CiYKXTmnvJ\nKJPrrFBf980Cmr8BzZixd6gyh+iWl0+oKIrFoYlVDoN0DD5Rn0U/ZNAtx3CkVgc2\nB6o6z31DU60puWn7YZMJut86twgK1OkWeF+2+snVAoGBAIoI7j4IG4Xbfx5MY8Ce\nDDXi7/MBLblg7Tdqj3TEbso7iztR8OOZqaEa0klghAyM955drvcteOhBeX0gqslV\n8PbHGYPXbq0USuPOVWwvdYqUKxL8wIDxQ2H+4WKplVOUqeGDnE9i1xOkPkd7g3on\n9L6BLUGjqvhvf7R/e+lI5Vp2\n-----END PRIVATE KEY-----\n",
+  "client_email": "medwander@sigma-future-426713-j7.iam.gserviceaccount.com",
+  "client_id": "112392229816179167532",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/medwander%40sigma-future-426713-j7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
